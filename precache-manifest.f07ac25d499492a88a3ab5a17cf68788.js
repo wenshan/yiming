@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cad3774ab07c82588b1565b4c269503",
+    "revision": "32fa020ef332c4ea0f38c7caf2c89a21",
     "url": "/yiming/index.html"
   },
   {
-    "revision": "543916319d8e4131069b",
+    "revision": "62587f04248610030d4e",
     "url": "/yiming/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yiming/static/js/2.c5e76fe8.chunk.js.LICENSE"
   },
   {
-    "revision": "543916319d8e4131069b",
-    "url": "/yiming/static/js/main.48ee74fc.chunk.js"
+    "revision": "62587f04248610030d4e",
+    "url": "/yiming/static/js/main.73fd676b.chunk.js"
   },
   {
     "revision": "045e27de04bd271b5244",

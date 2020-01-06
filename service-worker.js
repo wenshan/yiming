@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yiming/precache-manifest.c83b53ab8ea0e722f6148be40cf188ee.js"
+  "/yiming/precache-manifest.f07ac25d499492a88a3ab5a17cf68788.js"
 );
 
 self.addEventListener('message', (event) => {
